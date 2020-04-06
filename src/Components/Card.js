@@ -12,7 +12,7 @@ class Card extends Component {
         <h2 className="card-h2">Web development</h2>
         <p className="card-p">
           HTML5
-          <br style="margin-top: 50px;"></br>
+          <br></br>
           CSS3
           <br></br>
           JavaScript
