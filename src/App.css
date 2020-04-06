@@ -32,6 +32,36 @@
   margin-top: -40px;
 }
 
+.card {
+  background-color: #f42f46;
+  width: 400px;
+  height: 540px;
+  border-radius: 30px;
+  margin-top: 140px;
+}
+
+.card-pic {
+  display: block;
+  margin: 0 auto;
+  padding-top: 50px;
+  width: 120px;
+}
+
+.card-h2 {
+  font-family: "Baloo";
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-top: -10px;
+}
+
+.card-p {
+  font-family: "Baloo";
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
 /*@font-face {
   font-family: "Sen";
   src: url("https://fonts.googleapis.com/css2?family=Sen&display=swap");

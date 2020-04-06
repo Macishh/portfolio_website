@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
 import Header from "./Components/Header";
-import Skill from "./Components/Skill";
+import Card from "./Components/Card";
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Skill></Skill>
+      <Card></Card>
     </div>
   );
 }
